@@ -1,0 +1,2 @@
+API KEY: 7f019a4f68f88c8ccf64086cbf28ff1c
+Website: https://developer.themoviedb.org/reference/intro/getting-started 
